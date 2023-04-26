@@ -2,7 +2,7 @@ let express = require('express');
 let app = express();
 
 
-conaole.log("Hello World");
+console.log("Hello World");
 
 
 
